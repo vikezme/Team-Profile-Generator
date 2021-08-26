@@ -1,0 +1,29 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikezme/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "Team",
+    "PROLILE"
+  ],
+  "author": "VIKRANT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikezme/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/vikezme/Team-Profile-Generator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}

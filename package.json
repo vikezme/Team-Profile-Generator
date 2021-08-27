@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/vikezme/Team-Profile-Generator#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2"
   },
   "devDependencies": {
     "jest": "^27.0.6"

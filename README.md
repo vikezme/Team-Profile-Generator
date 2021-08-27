@@ -11,3 +11,6 @@ Unit test with Jest
 
 Screencastify link
 https://drive.google.com/file/d/1lgbQkaBRPXMKIF_ZtegoTrOMqpG8hSyD/view
+
+Screenshots
+https://github.com/vikezme/Team-Profile-Generator/blob/main/Images/Image1.jpg

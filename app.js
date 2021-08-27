@@ -77,7 +77,7 @@ const init = async () => {
   }
 
 
-
+const html = render(employees);
 
   if (!fs.existsSync(outputPath)) {
     const error = await mkdirAsync(OUTPUT_DIR);
